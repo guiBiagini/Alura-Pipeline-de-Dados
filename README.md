@@ -1,4 +1,4 @@
-Curso de Desenvolvimento de Pipelines de Dados com Python
+## Curso de Desenvolvimento de Pipelines de Dados com Python ##
 Este repositório contém o material do curso que aborda as etapas essenciais para a construção de um pipeline de dados robusto utilizando Python. O curso é dividido em várias seções, cada uma focada em uma parte crítica do processo de desenvolvimento e refatoração de códigos em Python.
 
 Conteúdo do Curso
@@ -18,11 +18,12 @@ Entenda a importância e os benefícios de desenvolver pipelines de dados reutil
 Nesta seção, aprenderemos a estruturar nossos códigos em funções bem definidas. Veremos como isso facilita a leitura, a manutenção e a reutilização do código, além de promover a modularidade.
 
 Estrutura do Repositório
-notebooks/: Contém os notebooks Jupyter utilizados durante o curso.
-scripts/: Scripts Python com exemplos práticos abordados nas aulas.
-data/: Conjunto de dados utilizados para exemplos e exercícios.
-docs/: Documentação adicional e materiais de referência.
+* notebooks/: Contém os notebooks Jupyter utilizados durante o curso.
+* scripts/: Scripts Python com exemplos práticos abordados nas aulas.
+* data/: Conjunto de dados utilizados para exemplos e exercícios.
+* docs/: Documentação adicional e materiais de referência.
+
 Pré-requisitos
-Python 3.8 ou superior
-Jupyter Notebook
-Bibliotecas: pandas, numpy, entre outras que serão especificadas ao longo do curso.
+* Python 3.8 ou superior
+* Jupyter Notebook
+* Bibliotecas: pandas, numpy, entre outras que serão especificadas ao longo do curso.
