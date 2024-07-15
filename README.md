@@ -20,8 +20,8 @@ Nesta seção, aprenderemos a estruturar nossos códigos em funções bem defini
 Estrutura do Repositório
 * notebooks/: Contém os notebooks Jupyter utilizados durante o curso.
 * scripts/: Scripts Python com exemplos práticos abordados nas aulas.
-* data/: Conjunto de dados utilizados para exemplos e exercícios.
-* docs/: Documentação adicional e materiais de referência.
+* data_raw/: Conjunto de dados utilizados para exemplos e exercícios.
+* data_processed/: Conjunto de dados processados após a utilização do script.
 
 Pré-requisitos
 * Python 3.8 ou superior
